@@ -1,1 +1,2 @@
-# Объединенные конспекты лекций из курса https://www.coursera.org/specializations/machine-learning-data-analysis
+# Объединенные конспекты лекций из курса Яндекса и МФТИ
+https://www.coursera.org/specializations/machine-learning-data-analysis
